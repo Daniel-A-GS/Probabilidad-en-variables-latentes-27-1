@@ -15,16 +15,14 @@
 
 ### Temario por Semanas:
 
-* **S01:**  `|||` 
-* **S02:**  `|||` 
-* **S03:**  Tipos de ítems y Test `|||` Correlación Biserial e Índice de Dificultad.
-* **S04:**  Índice de  Discriminación y de Validez `|||` Matrices MRMM.
-* **S05:** ` 
+* **S03:**  Correlaciones: Pearson, Punto-biserial y Biserial `|||` Correlaciones: Policórica, Tetracórica, Spearman
+* **S04:**  Índice de  Discriminación y de Validez `|||` Rotaciones (Oblicuas y Ortogonales)
+* **S05:**  `|||`
 * **S06:**  `|||` 
 * **S07:**  `|||` 
 * **S08:**  `|||` 
 * **S09:**  `|||` 
-* **S10:** 
+* **S10:**  `|||`
 * **S11:**  `|||` 
 * **S12:**  `|||` 
 * **S13:**  `|||` 
