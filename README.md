@@ -17,7 +17,7 @@
 
 * **S03:**  Correlaciones: Pearson, Punto-biserial y Biserial `|||` Correlaciones: Policórica, Tetracórica, Spearman
 * **S04:**  Índice de  Discriminación y de Validez `|||` Rotaciones (Oblicuas y Ortogonales)
-* **S05:**  `|||`
+* **S05:**  Prueba de Esfecicidad de Bartlett y Kaiser-Meyer-Olkin`|||`
 * **S06:**  `|||` 
 * **S07:**  `|||` 
 * **S08:**  `|||` 
