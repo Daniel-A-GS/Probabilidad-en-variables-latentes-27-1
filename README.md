@@ -19,8 +19,8 @@
 * **S04:**  Índice de  Discriminación y de Validez `|||` Rotaciones (Oblicuas y Ortogonales)
 * **S05:**  Prueba de Esfecicidad de Bartlett y Kaiser-Meyer-Olkin
 * **S06:**  Análisis Facotrial Exploratorio (Actitudes hacia el Narcotráfico)
-* **S07:**  Modelo de Crédito Parcial
-* **S08:**  `|||` 
+* **S07:**  Inductive Event Data Scaling using Item Response Theory (Paper + Simulación)
+* **S08:**  Modelo de Crédito Parcial
 * **S09:**  `|||` 
 * **S10:**  `|||`
 * **S11:**  `|||` 
