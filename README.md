@@ -18,8 +18,8 @@
 * **S03:**  Correlaciones: Pearson, Punto-biserial y Biserial `|||` Correlaciones: Policórica, Tetracórica, Spearman
 * **S04:**  Índice de  Discriminación y de Validez `|||` Rotaciones (Oblicuas y Ortogonales)
 * **S05:**  Prueba de Esfecicidad de Bartlett y Kaiser-Meyer-Olkin
-* **S06:**  Análisis Facotrial Exploratorio (Actitudes hacia el Narcotráfico)
-* **S07:**  Inductive Event Data Scaling using Item Response Theory (Paper + Simulación)
+* **S06:** [Análisis Factorial Exploratorio (Actitudes hacia el Narcotráfico)](https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-48322018000300087)
+* **S07:** [Inductive Event Data Scaling using Item Response Theory (Paper + Simulación)](https://arxiv.org/pdf/1605.08889)
 * **S08:**  Modelo de Crédito Parcial
 * **S09:**  `|||` 
 * **S10:**  `|||`
